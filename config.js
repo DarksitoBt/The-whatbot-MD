@@ -1,6 +1,6 @@
 //=============『 owner 』================== //
 global.owner = ['5492266466080' , '51935116539'] 
-global.mods = [] 
+global.mods = ['51960578499'] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
@@ -15,7 +15,7 @@ global.gopay = '087892711054'
 //=============『 Info Bot 』=================//
 global.namebot = 'superbot-MD'
 global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //conviértalo en su sitio web, puede vincular ig, vincular github, vincular yt, si el enlace es gc, la visualización volverá a ser diferente.
+global.web = 'https://github.com/DarksitoBt' //conviértalo en su sitio web, puede vincular ig, vincular github, vincular yt, si el enlace es gc, la visualización volverá a ser diferente.
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Pantalla y más 』============//
